@@ -1,4 +1,4 @@
-<!-- css/styles.css for 2025-oct.bauska.org -->
+<!-- css/styles.css for 2025-10-oct.bauska.org making 2025-oct.bauska.org -->
 body {
   font-family:Helvetica;
 }
@@ -106,68 +106,70 @@ a:hover::after {
 
 <!-- World, National & International Days -->
 .intl {
-    background-color:#d14a4a;  /* moderate red */
+  background-color:#d14a4a;  /* moderate red */
 }
 .intl-coffee {
-    background-color:#d14a4a;  /* moderate red */
+  background-color:#d14a4a;  /* moderate red */
 }
 .natl-taco {
-    background-color:#ff4d4d;  /* light red */
+  background-color:#ff4d4d;  /* light red */
 }
 .world-teacher {
-    background-color:#9ab3ff;  /* pale blue */
+  background-color:#9ab3ff;  /* pale blue */
 }
 .walk-to-school {
-    background-color:#98fb98;  /* very soft lime green */
+  background-color:#98fb98;  /* very soft lime green */
 }
 .leif-erikson {
-    background-color:#ffb1b1;  /* pale red [pink tone] */
+  background-color:#ffb1b1;  /* pale red [pink tone] */
 }
 .world-egg {
-    background-color:#a6f4ff;  /* pale cyan */
+  background-color:#a6f4ff;  /* pale cyan */
 }
 .intl-day-of-the-girl {
-    background-color:#ffc0cb;  /* very pale red (pink) */
+  background-color:#ffc0cb;  /* very pale red (pink) */
 }
 .silus-bd {
-    background-color:#b1ffb1;  /* pale lime green */
+  background-color:#b1ffb1;  /* pale lime green */
+  font-size: 110%;
 }
 .natl-farmers {
-    background-color:#d3d3d3;  /* light gray */
+  background-color:#d3d3d3;  /* light gray */
 }
 .columbus {
-    background-color:#00ff00;  /* mostly pure lime green */
+  background-color:#00ff00;  /* mostly pure lime green */
 }
 .natl-pasta {
-    background-color:#ff68ff;  /* very light magenta */
+  background-color:#ff68ff;  /* very light magenta */
 }
 .sweetest {
-    background-color:#ccff9a;  /* pale green */
+  background-color:#ccff9a;  /* pale green */
 }
 .natl-nut {
-    background-color:#ffd700;  /* gold */
+  background-color:#ffd700;  /* gold */
 }
 .natl-food {
-    background-color:#00ff00;  /* lime green */
+  background-color:#00ff00;  /* lime green */
 }
 .natl-trick-or-treat {
-    background-color:#ba9ce8;  /* very soft violet */
+  background-color:#ba9ce8;  /* very soft violet */
 }
 .natl-pumpkin {
-    background-color:#e08b3e;  /* bright orange */
+  background-color:#e08b3e;  /* bright orange */
 }
 .black-cat {
-    background-color:#ff7e6d;  /* very light red */
+  background-color:#ff7e6d;  /* very light red */
 }
 .natl-chocolate {
-    background-color:#afffad;  /* pale lime green */
+  background-color:#afffad;  /* pale lime green */
 }
 .natl-cat {
-    background-color:#e8e193;  /* very soft yellow */
+  background-color:#e8e193;  /* very soft yellow */
 }
 .natl-candycorn {
-    background-color:#ffd800;  /* pure yellow */
+  background-color:#ffd800;  /* pure yellow */
 }
 .halloween {
-    background-color:#eb6123;  /* halloween orange */
+  background-color:#eb6123;  /* halloween orange */
+  font-size: 110%;
 }
