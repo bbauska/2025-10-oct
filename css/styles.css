@@ -1,4 +1,4 @@
-<!-- css/styles.css for 2025-10-oct.bauska.org making 2025-oct.bauska.org -->
+/* css/styles.css for 2025-10-oct making 2025-oct.bauska.org */
 body {
   font-family:Helvetica;
 }
@@ -67,7 +67,6 @@ ul {
     padding:5px;
     margin:5px 0;
 }
-<!-- added 6-10-25 5:08pm -->
 .container {
   background-color: #ffffff;  /* white */
   border: 2px solid #dcdcdc;  /* very light gray */
@@ -104,7 +103,7 @@ a:hover::after {
   width: 85%;
 }
 
-<!-- World, National & International Days -->
+/* World, National & International Days */
 .intl {
   background-color:#d14a4a;  /* moderate red */
 }
